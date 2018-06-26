@@ -19,7 +19,7 @@ https://github.com/CyanogenMod/android_packages_apps_LockClock
 
 It provided a lot of insights and knowledge how to do this
 Some parts of the code like the provider access have been taken
-from it with minor modificatioons. Please check the file copyright
+from it with minor modifications. Please check the file copyright
 headers for the origins of the files.
 
 If you already include LockClock with your ROM you should
@@ -86,5 +86,5 @@ An example can be found here https://github.com/maxwen/WeatherIconSample
 
 
 Icons:
-Outline weather icon  set is used with permission from  http://emske.com/25-outline-weather-icons/
+Outline weather icon set is used with permission from  http://emske.com/25-outline-weather-icons/
 
